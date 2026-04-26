@@ -27,3 +27,5 @@ class Optimal:
                     self.memory.append(page)
 
             print(f"Page: {page} -> Memory: {self.memory}")
+
+            # update 3

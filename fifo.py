@@ -20,3 +20,5 @@ class FIFO:
                 self.queue.append(page)
 
         print(f"Page: {page} -> Memory: {self.memory}")
+
+        # change 1

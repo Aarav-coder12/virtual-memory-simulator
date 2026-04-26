@@ -21,3 +21,5 @@ class LRU:
             self.recent.append(page)
 
         print(f"Page: {page} -> Memory: {self.memory}")
+
+        # change 2
